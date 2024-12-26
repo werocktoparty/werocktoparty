@@ -30,6 +30,6 @@
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=werocktoparty&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmk2528" alt="Solved.ac 프로필" width="42%" height="100%"/>
 </div>
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=werocktoparty&debug=true" alt="Top Langs"/>
-</div>
+</div> -->
