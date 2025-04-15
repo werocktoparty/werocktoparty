@@ -5,7 +5,9 @@
 <h2 align="center">😁 It's me! 😁</h2>
 <div>
   <p align="center"><b>2018.03~2024.02 한밭대학교 전자제어공학과📖</b></p>
-  <p align="center"><b>2024.01~ SSAFY 11th 비전공 자바반💻</b></p>
+  <p align="center"><b>2024.01~ 2024.12 SSAFY 11th 비전공 자바반💻</b></p>
+  <p align="center"><b>2025.04~ 2025.06 경기신용보증재단 디지털금융부 인턴💻</b></p>
+
 </div>
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
